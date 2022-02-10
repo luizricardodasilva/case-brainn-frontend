@@ -15,7 +15,7 @@ export const PageContainer= styled.div`
 `
 
 export const Logo = styled.img`
-    width: 5vW;
-    height: 11vH;
+    width: 11vW;
+    height: 21vH;
     margin-right: 2vw;
 `
